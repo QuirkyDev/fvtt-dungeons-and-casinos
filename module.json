@@ -1,0 +1,25 @@
+{
+    "name": "dungeons-and-casinos",
+    "title": "Simple Dice Roller",
+    "description": "Dungeons&Casinos",
+    "author": "Joeri Verlooy (QuirkyDev)",
+    "authors": [],
+    "url": "https://github.com/QuirkyDev/dungeons-and-casinos",
+    "flags": {},
+    "version": "1.0.0",
+    "minimumCoreVersion": "7",
+    "compatibleCoreVersion": "9",
+    "scripts": [
+      "scripts/dungeons-and-casinos.js"
+    ],
+    "esmodules": [],
+    "styles": [
+      "./css/dungeons-and-casinos.css"
+    ],
+    "packs": [],
+    "system": [],
+    "dependencies": [],
+    "socket": false,
+    "protected": false,
+    "coreTranslation": false
+  }
