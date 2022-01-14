@@ -14,7 +14,7 @@
     ],
     "esmodules": [],
     "styles": [
-      "./css/dungeons-and-casinos.css"
+      "css/dungeons-and-casinos.css"
     ],
     "packs": [],
     "system": [],
